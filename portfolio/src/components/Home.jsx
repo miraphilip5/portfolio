@@ -12,19 +12,22 @@ const Home = () => {
   return (
     <div
       name="home"
-      className="h-full bg-gradient-to-b from-black via-black to-gray-800"
+      className="h-screen pt-20 bg-gradient-to-b from-black via-black to-gray-800"
     >
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">{text}</h2>
           <p className="text-gray-500 py-4 max-w-md">
-            Hello, I'm Mira Philip, a Frontend Developer With 7.5 years of
-            experience in UI frameworks, my passion lies in creating stunning
-            user interfaces. Over the past 3-4 years, I've specialized in React
-            JS. I'm enthusiastic about all things frontend, and I thrive on
-            bringing ideas to life. Explore my portfolio to see how I've
-            transformed concepts into engaging digital experiences. Let's
-            connect and work together to create something amazing!
+            Hello, I'm Mira Philip, a Frontend Developer with 7.5 years of
+            experience in UI frameworks. My passion lies in creating stunning
+            user interfaces, and over the past 3-4 years, I've specialized in
+            React JS. I'm enthusiastic about all things frontend, and I thrive
+            on bringing ideas to life. In addition to my frontend expertise, I'm
+            also in the process of learning to become a full stack developer,
+            expanding my skill set to deliver end-to-end solutions. Explore my
+            portfolio to see how I've transformed concepts into engaging digital
+            experiences. Let's connect and work together to create something
+            amazing!
           </p>
           <div>
             <Link
