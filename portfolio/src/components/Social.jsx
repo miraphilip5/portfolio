@@ -24,7 +24,7 @@ const Social = () => {
           <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/miraphilip5?tab=projects",
+      href: "https://github.com/miraphilip5",
     },
     {
       id: 3,
