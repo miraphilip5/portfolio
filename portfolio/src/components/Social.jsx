@@ -44,7 +44,7 @@ const Social = () => {
           <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/Mira_Philip_Resume.docx",
+      href: "/Mira_Philip_FE_Developer.docx",
       style: "rounded-br-md",
       download: true,
     },

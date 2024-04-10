@@ -19,6 +19,7 @@ import springBoot from "../assets/springBoot.svg";
 import bitBucket from "../assets/bitbucket.svg";
 import typescript from "../assets/typescript.svg";
 import restApi from "../assets/restApi.svg";
+import tailwind from "../assets/tailwind.svg";
 
 const Experience = () => {
   const techs = [
@@ -161,6 +162,13 @@ const Experience = () => {
       title: "BitBucket",
       style: "shadow-blue-400",
       rating: 60,
+    },
+    {
+      id: 21,
+      src: tailwind,
+      title: "TailwindCSS",
+      style: "shadow-blue-400",
+      rating: 30,
     },
   ];
 

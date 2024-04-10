@@ -18,7 +18,7 @@ const Home = () => {
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">{text}</h2>
           <p className="text-gray-500 py-4 max-w-md">
-            Hello, I'm Mira Philip, a Frontend Developer with 7.5 years of
+            Hello, I'm Mira Philip, a Frontend Developer with 7+ years of
             experience in UI frameworks. My passion lies in creating stunning
             user interfaces, and over the past 3-4 years, I've specialized in
             React JS. I'm enthusiastic about all things frontend, and I thrive
